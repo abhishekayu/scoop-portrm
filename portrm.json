@@ -1,12 +1,12 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "portrm is a fast, cross-platform CLI to inspect ports, understand processes, and recover broken dev environments",
   "homepage": "https://portrm.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/abhishekayu/portrm/releases/download/v2.2.3/portrm-windows-amd64.zip",
-      "hash": "8c6e35e0a433bd4bf0a6c300b8d642aecf8dd0ea382ea10b562618872730ccd9"
+      "url": "https://github.com/abhishekayu/portrm/releases/download/v2.2.4/portrm-windows-amd64.zip",
+      "hash": "9b5e61f2ea176cd47d826640f0bf26e2dc8ad2b0869cb508b82790d0a6a3c2a8"
     }
   },
   "bin": "ptrm.exe",
